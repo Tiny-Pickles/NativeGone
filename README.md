@@ -1,7 +1,7 @@
 # Project Name: Native #
 
 *Potential Names: NativesGone*
-*I want to think of a catchy name*
+(I want to think of a catchy name)
 
  
 ## Inspirations: ##
