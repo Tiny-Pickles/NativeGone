@@ -22,9 +22,10 @@ The map will be constructed within [ArcGIS](https://pro.arcgis.com/en/pro-app/la
 
 These layers will included the following:
 1.	An interactive layer that displays the geographical location of all federally recognized Indian Reservations within the United States. 
-    1. a.	This layer will show the physical boundaries of all Indian Reservations and Agencies within the United States due to the fact that many reservations cross several state borders.
+    1. This layer will show the physical boundaries of all Indian Reservations and Agencies within the United States due to the fact that many reservations cross several state borders.
 2. Another series of layers will display all Extractive Industries *(Crude Oil, Petroleum, Coal, etc.)*  that fall on federally recognized Reservations.
-    1.a.	This layer will show the dataset provided by [ArcGIS Living Atlas: Federally Recognized Tribal Reservations vs Oil/Petroleum/Coal Locations and Pipelines](https://pennstate.maps.arcgis.com/home/item.html?id=cb42fa4c4b394bdeb8200fecb563ee22). 
+    1. This can be used to display a cause-and-effect analysis while comparing all Tribal Crimes across Tribal lands and how outside industry may or may not be a contributing factor to those statistics. 
+    1. This This layer will show the dataset provided by [ArcGIS Living Atlas: Federally Recognized Tribal Reservations vs Oil/Petroleum/Coal Locations and Pipelines](https://pennstate.maps.arcgis.com/home/item.html?id=cb42fa4c4b394bdeb8200fecb563ee22). 
 
 The Documentational Timeline portion will use various markup languages including XML, XQuery, and RegEx. The timeline portion of the website will display significant court cases, and legislation pertaining to the criminal injustice of Native Americans. Also, this will show the ongoing flawed legal landscape that surrounds Native Americans.
 
@@ -34,8 +35,8 @@ For the Web development portion of the project, I will create and publish my sit
 *This timeline is subjected to change in the future*
 
 Generally order for Large Milestones within my Project
-1.	ArcGIS Map layers
-2.	Timeline of Significant Events 
+1. ArcGIS Map layers
+2. Timeline of Significant Events 
 
 Throughout this project I will work on some xml documents as well as webpages with HTML and CSS. Here is a link that will direct you to the project tab of my GitHub that will be a more specific [project timeline](. (https://github.com/Tiny-Pickles/NativeGone/projects/1)) for various milestones. 
 
