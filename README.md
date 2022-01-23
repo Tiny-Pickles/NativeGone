@@ -38,7 +38,7 @@ Generally order for Large Milestones within my Project
 1. ArcGIS Map layers
 2. Timeline of Significant Events 
 
-Throughout this project I will work on some xml documents as well as webpages with HTML and CSS. Here is a link that will direct you to the project tab of my GitHub that will be a more specific [project timeline](. (https://github.com/Tiny-Pickles/NativeGone/projects/1)) for various milestones. 
+Throughout this project I will work on some xml documents as well as webpages with HTML and CSS. Here is a link that will direct you to the project tab of my GitHub that will be a more specific [project timeline](https://github.com/Tiny-Pickles/NativeGone/projects/1). for various milestones. 
 
 ## Future Plans: ##
 
