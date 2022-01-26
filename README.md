@@ -8,7 +8,7 @@ Early on in college I took PLSC 123 Ethnic and Racial Politics class, and we bri
 Last fall, I decided to take HIST 266Y Sex and Violence within the 19th century. In this class we talked about the sexual violence Native Americans have faced throughout US history and how it is still a significant problem to this day. I wanted to create this project to display these jarring statistics to try to help promote change. 
  
 ## Overview: ##
-As a whole minority groups have been oppressed throughout history. I have always been interested in the political climate and history that surround minority groups within the United States. One of the main goals of the NativeGone Project is to display the flawed legal system that surrounds Native Americans. To this day, the United States government still treats Native Americans differently and that can be visible through past legislation and court cases. Reservations have a disproportionately higher crime rate and have a disproportionately higher portion of sexually driving crimes. Another aspect I want to shine light on is the extremely high percent of sexual assault and rape crimes commited on Indian Reservations. This project will help to display and spread awareness about the current status of policies that affect Native Americans and Reservations. 
+As a whole, minority groups have been oppressed throughout history. I have always been interested in the political climate and history that surround minority groups within the United States. One of the main goals of the NativeGone Project is to display the legal system that surrounds Native Americans. To this day, the United States government still treats Native Americans differently and that can be visible through past legislation and court cases. Reservations have a disproportionately higher crime rate and have a disproportionately higher portion of sexually related crimes. Another aspect I want to shine light on is the extremely high percent of sexual assault and rape crimes commited on Indian Reservations. This project will help to display and spread awareness about the current status of policies that affect Native Americans and Reservations. 
  
 ## Goals: ##
 1. Create an Interactive Map of the United States listing all federally recognized Native American Agencies and Reservations. 
@@ -25,7 +25,7 @@ The timeline however will only list significant events that have been involved i
 
 This will require intensive research that will take time, and I want to make sure my project is as historically accurate as possible. Also I will have to navigate around many legal documents and try to translate them for the average viewer of my site. It will take time to simplify complex legal jargon. Still I will try my best to group significant events to make a well rounded timeline throughout the whole semester. 
 ## Software and Technology: ##
-The map will be constructed within [ArcGIS](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). ArcGIS is a geographical information system software that is used to create 2D and 3D maps. ArchGIS is a tool used to create interactive maps that visualize and analyze data in various formats. For the NativeGone Project, I want to create a multi-layer 2D map of the United States that displays various information about Native Americans. 
+The map will be constructed within [ArcGIS](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). ArcGIS is a geographical information system software that is used to create 2D and 3D maps. ArcGIS is a tool used to create interactive maps that visualize and analyze data in various formats. For the NativeGone Project, I want to create a multi-layer 2D map of the United States that displays various information about Native Americans. 
 
 These layers will included the following:
 1. An interactive layer that displays the geographical location of all federally recognized Indian Reservations within the United States. 
@@ -41,7 +41,7 @@ For the Web development portion of the project, I will create and publish my sit
 ## NativeGone Project Timeline: ##
 *This timeline is subjected to change in the future*
 
-Generally order for Large Milestones within my Project
+General order for Large Milestones within my Project
 1. ArcGIS Map layers
 2. Timeline of Significant Events 
 
