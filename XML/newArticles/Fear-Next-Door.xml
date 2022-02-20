@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <?xml-model href="newsArticle.rnc" type="application/relax-ng-compact-syntax"?>
-<entry >
+<entry dateID="2019">
         <meta>
             <title>FEAR NEXT DOOR The man camp connection</title>
             <author>Drew Novak</author>
             <imageCredit>Hope Freier</imageCredit>
             <publisher>Native News Project 2019 | University of Montana</publisher>
+            <pubDate>2019</pubDate>
             <source url="https://nativenews.jour.umt.edu/2019/fort-peck/"/>
         </meta>
         <body>
             <p>It was the <state>North Dakota</state>license plates that immediately stood
                 out to the Thunderchilds. </p>
             <section>
-                <p> Sixteen-year-old <person>Prairiedawn Thunderchild</person>and her 13-year-old
+                <p> Sixteen-year-old <person ref="#">Prairiedawn Thunderchild</person>and her 13-year-old
                     younger sister,<person>Tah’nee</person>, were walking to their apartment in
                     northern <city>Wolf Point</city>on Aug. 1, 2018. The evening was
                     warm and sticky as they tend to be in the late summer, but the sky was clear as

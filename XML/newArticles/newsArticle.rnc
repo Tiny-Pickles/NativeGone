@@ -1,22 +1,32 @@
 start = entry
-entry = element entry {meta, body}
-meta = element meta {title,author, imageCredit, publisher, source}
+entry = element entry {dateID, meta, body}
+dateID = attribute dateID {xsd:date |xsd:gYear | xsd:gYearMonth}
+meta = element meta {title, author, imageCredit, publisher, pubDate, source}
 title = element title {text}
 author = element author {text}
 imageCredit = element imageCredit {text}
 publisher = element publisher {text}
+pubDate = element pubDate {xsd:date |xsd:gYear | xsd:gYearMonth}
 source = element source {url}
-url = attribute url {text}
-body = element body {(p| section |img)*}
-img = element img {caption}
+url = attribute url {xsd:anyURI}
+
+
+
+body = element body {(p| section)*,img*}
+img = element img {n, caption, url, qual?}
+n = attribute n {xsd:integer}
+qual = attribute qual {"good" | "bad"}
 caption = element caption {text}
-p = element p {mixed {(person | org| q|city|state| res| manCamp | county )*}}
-county = element county {text}
-person = element person {text}
+p = element p {mixed {(person | org| q| city| state| res| camp | county )*}}
+lat = attribute lat {xsd:float}
+long = attribute long {xsd:float}
+county = element county {(lat, long)?,text}
+person = element person {ref?, text}
+ref = attribute ref {"#"}
 org = element org {text}
-q = element q {text}
-city = element city {text}
-state = element state {text}
-res = element res {text}
-manCamp = element manCamp {text}
+q = element q {ref, text}
+city = element city {(lat, long)?, text}
+state = element state {(lat, long)?,text}
+res = element res {(lat, long)?,text}
+camp = element camp {(lat, long)?,text}
 section = element section {p+}
