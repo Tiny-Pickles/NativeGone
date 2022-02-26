@@ -20,7 +20,7 @@
 
     <p><q person="#">“I know that night when it happened, this whole block, I swear it was pitch
             black,”</q> she said. There were no street lights or porch lights like normal. <q
-            person="#">“I had to use a flashlight to walk outside.”</q></p>
+            person="#"><q ref="#"><q ref="#">“I had to use a flashlight to walk outside.”</q></q></q></p>
 
     <p>An hour later, she started getting messages from her friends that something happened to
         Licht-Morsette. The street was blocked off by police cars and an ambulance. Licht-Morsette’s
@@ -62,7 +62,7 @@
         with her youngest son. One time, Licht-Morsette put a lighter to her mouth to a light a
         cigarette, but forgot to put the cigarette in her mouth and accidentally burned herself.</p>
 
-    <p><q person="#">“She was really goofy, like Silly Sally,”</q> New Breast-Morrow said.</p>
+    <p><q person="#"><q ref="#"><q ref="#">“She was really goofy, like Silly Sally,”</q></q></q> New Breast-Morrow said.</p>
 
     <p>New Breast-Morrow sits on that couch now, her hands crossed tightly in her lap, a rose tattoo
         on each thumb and pink tipped dark hair in a ponytail. Her 5-year-old son empties a
@@ -105,8 +105,8 @@
         to investigate crimes that target their own citizens, neighbors and family.</p>
 
     <p><q person="#">“It’s got a lot to do with communication, talking openly and not being
-            territorial,”</q> said Harlan Baker, tribal council chairman for the Rocky Boy’s Indian
-        Reservation, where Licht-Morsette lived. He said the relationship between the three agencies
+            territorial,”</q> said Harlan Baker, tribal council chairman for the <res>Rocky Boy’s Indian
+        Reservation</res>, where Licht-Morsette lived. He said the relationship between the three agencies
         is not terrible, but it could be much better. It could also get much worse as soon as
         someone new is in charge of any of the agencies.</p>
 
@@ -210,7 +210,7 @@
         American girls have gone missing in Montana in the last three years without ever being
         recorded by responding law enforcement agencies.</p>
 
-    <p><q person="#">“We wish for quicker responses,”</q> Baker said.</p>
+    <p><q person="#"><q ref="#"><q ref="#">“We wish for quicker responses,”</q></q></q> Baker said.</p>
 
     <p>Baker hasn’t heard anything about Licht-Morsette’s case from the FBI since they came to the
         reservation to investigate the night of the murder. He heard about the murder charges being
@@ -237,7 +237,7 @@
         firsthand experience with the agencies testified that what they said at the hearing and what
         they did on the ground did not match.</p>
 
-    <p><q person="#">“This is your failure,”</q> said Heidi Heitkamp, a former senator from North
+    <p><q person="#"><q ref="#"><q ref="#">“This is your failure,”</q></q></q> said Heidi Heitkamp, a former senator from North
         Dakota. “When you don’t have prosecution, you have no deterrents and it’s open season on
         people who live in Indian Country.”</p>
 
@@ -250,7 +250,7 @@
         of hers that was suddenly missing. She and Sutherland went into her room. Then she
         screamed.</p>
 
-    <p><q person="#">“It was the sound a woman makes when she gets hit … or when she’s scared,”</q>
+    <p><q person="#"><q ref="#"><q ref="#">“It was the sound a woman makes when she gets hit … or when she’s scared,”</q></q></q>
         Boldt said in the affidavit.</p>
 
     <p>According to the affidavit, Sutherland confessed to hearing voices and seeing a shadow while

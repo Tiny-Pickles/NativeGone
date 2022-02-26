@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="article.rnc" type="application/relax-ng-compact-syntax"?>
+
+<entry dateID="2014-09-28">
+    <meta>
+        <title/>
+        <author>Sari Horwitz</author>
+        <imageCredit>Linda Davidson</imageCredit>
+        <publisher>The Washington Post</publisher>
+        <pubDate>2014-09-28</pubDate>
+        <source url="https://www.washingtonpost.com/sf/national/2014/09/28/dark-side-of-the-boom/"/>
+    </meta>
+    <body>
+        <section>
+            <p><res>FORT BERTHOLD INDIAN RESERVATION, N.D.</res> — <person>Tribal police Sgt. Dawn
+                    White</person> is racing down a dusty two-lane road — siren blaring, police
+                radio crackling — as she attempts to get to the latest 911 call on a reservation
+                that is a blur of oil rigs and bright-orange gas flares.</p>
+
+            <p><q ref="#">“Move! C’mon, get out of the fricking way!”</q> White yells as she hits
+                102 mph and weaves in and out of a line of slow-moving tractor-trailers that
+                stretches for miles.</p>
+
+            <img>
+                <caption>Above: Tractor-trailers tied to oil production back up traffic and are seen
+                    everywhere in and around New Town.</caption>
+            </img>
+
+            <p>In just five years, the Bakken formation in North Dakota has gone from producing
+                about 200,000 barrels to 1.1 million barrels of oil a day, making North Dakota the
+                No. 2 oil-producing state, behind Texas, and luring thousands of workers from around
+                the country.</p>
+
+
+            <p>But there is a dark side to the multibillion-dollar boom in the oil fields, which
+                stretch across western North Dakota into Montana and part of Canada. The arrival of
+                highly paid oil workers living in sprawling “man camps” with limited spending
+                opportunities has led to a crime wave -- including murders, aggravated assaults,
+                rapes, human trafficking and robberies -- fueled by a huge market for illegal drugs,
+                primarily heroin and methamphetamine.</p>
+
+            <p>Especially hard-hit are the Indian lands at the heart of the Bakken. Created in 1870
+                on rolling grasslands along the Missouri River, <res>Fort Berthold </res>(pronounced
+                Birth-Old), was named after a U.S. Army fort and is home to the Mandan, Hidatsa and
+                Arikara Nation -- known as the MHA Nation, or the Three Affiliated Tribes.</p>
+        </section>
+
+        <section>
+            <p><q ref="#">“It’s like a tidal wave, it’s unbelievable,”</q> said <person>Diane
+                    Johnson</person>, chief judge at the MHA Nation. She said crime has tripled in
+                the past two years and that 90 percent is drug-related. <q ref="#">“The drug problem
+                    that the oil boom has brought is destroying our reservation.”</q></p>
+
+            <p>Once farmers and traders, the Mandan was the tribe that gave Lewis and Clark safe
+                harbor on their expedition to the Northwest but was decimated in the mid-1830s by
+                smallpox. Over many years, the 12 million acres awarded to the three tribes by
+                treaty in 1851 has been reduced to 1 million by the United States.</p>
+
+            <p>The U.S. government in 1947 built the Garrison Dam and created Lake Sakakawea, a
+                479-square-mile body of water that flooded the land of the Three Affiliated Tribes,
+                wiped out much of their farming and ranching economy, and forced most of them to
+                relocate to higher ground on the prairie.</p>
+
+            <p><q ref="#">“When the white man said, ‘This will be your reservation,’ little did they
+                    know those Badlands would now have oil and gas,” </q><person>MHA Nation Chairman
+                    Tex “Red Tipped Arrow” Hall</person> said in an energy company video last year.
+                    <q ref="#">“Those Badlands were coined because they’re nothing but gully, gumbo
+                    and clay. Grass won’t grow, and horses can’t eat and cattle or buffalo can’t
+                    hardly eat . . . but there’s huge oil and gas reserves under those Badlands
+                    now.”</q></p>
+        </section>
+        <img url="">
+            <caption>Native Americans from regional tribes dance at the grand entrance of the Little
+                Shell Pow Wow, hosted by the Three Affiliated Tribes in <city>New Town, N.D.</city>
+                The reservation, home to the Mandan, Hidatsa and Arikara nations, is at the
+                epicenter of the fracking and oil boom, but crime and drug trafficking have
+                increased dramatically.</caption>
+        </img>
+        <section>
+            <p>The oil boom could potentially bring hundreds of millions of dollars to the tribes,
+                creating the opportunity to build new roads, schools, and badly needed housing and
+                health facilities. But the money is coming with a steep social cost, according to
+                    <person>White</person>, her fellow tribal officers and federal officials who are
+                struggling to keep up with the onslaught of drugs and crime.</p>
+
+
+            <p><q ref="#">“We are dealing with stuff we’ve never seen before,”</q>
+                <person>White</person> said after leaving the scene of the latest disturbance fueled
+                by drugs and alcohol. <q ref="#">“No one was prepared for this.”</q></p>
+
+            <p>The 20-member tribal police force is short-staffed and losing officers to
+                higher-paying jobs on the oil fields. Sometimes, there are only two tribal officers
+                on duty to cover the whole reservation, including part of the <state>North Dakota
+                    Badlands</state>. There is only one substance-abuse treatment center, with room
+                for only nine patients at a time, to help the soaring number of heroin and meth
+                addicts.</p>
+
+            <p>Over the summer, the <org>White House Office of National Drug Control Policy</org>
+                singled out drug trafficking in the Bakken oil patch as a <q ref="#">“burgeoning
+                    threat.”</q> Violent crime in <state>North Dakota’s Williston Basin
+                    region</state>, which includes the reservation, increased 121 percent from 2005
+                to 2011. The Bakken is also experiencing a large influx of motorcycle gangs, trying
+                to claim <q ref="#">“ownership”</q> of the territory and facilitating prostitution
+                and the drug trade, according to a federal report.</p>
+
+            <p>“Up until a few years ago, Fort Berthold was a typical reservation struggling with
+                the typical economic problems that you find in Indian Country,” said <person>Timothy
+                    Q. Purdon</person>, the <org>U.S. attorney for North Dakota</org>, whose office
+                prosecutes violent crime on the reservation.</p>
+
+            <p><q ref="#">“But now, boom — barrels of oil mean barrels of money,”</q>
+                <person>Purdon</person> said.<q ref="#"> “More money and more people equals more
+                    crime. And whether the outsiders came here to work on a rig and decided it would
+                    be easier to sell drugs or they came here to sell drugs, it doesn’t make any
+                    difference. They’re selling drugs. An unprecedented amount.”</q></p>
+        </section>
+
+
+        <img>
+            <caption>Three Affiliated Tribes officer <person>Jacob Gadewoltz</person> takes tribal
+                member <person>Troy Yazzie</person> into custody on a federal warrant.</caption>
+        </img>
+
+        <section>
+            <p>Operation Winter’s End</p>
+            <p><person>Hall</person>, the longtime chairman of the Three Affiliated Tribes, called
+                it the <q ref="#">“worst tragedy”</q> on the <res>Fort Berthold reservation</res> in
+                his memory.</p>
+
+            <p>On a November afternoon two years ago, an intruder burst into a home in New Town, the
+                largest town on the reservation, and shot and killed a grandmother and three of her
+                grandchildren with a hunting rifle. A fourth grandchild, a 12-year-old boy, survived
+                by hiding under his slain brother’s body and pretending he was dead.</p>
+
+
+            <p><person>North Dakota U.S. Attorney Tim Purdon</person> has indicted more than 60
+                people for dealing heroin and methamphetamine on and around <res>Fort Berthold
+                    Indian Reservation</res> in an investigation dubbed Operation Winter’s End.</p>
+
+            <p>The young man responsible for the killings slit his own throat hours later in a
+                nearby town. He was high on meth, according to federal officials.</p>
+
+            <p>On the same day, in an unrelated incident,<person> Sgt. White</person> stopped a
+                motorist who was wanted on an outstanding warrant. As she grabbed the handle of his
+                car door, the driver, who had drugs in the vehicle, took off, dragging her on the
+                ground for half a block and sending her to the hospital with a concussion.</p>
+
+            <p>It seemed as though big-city drug violence had arrived like a sudden storm.</p>
+
+            <p><q ref="#">“We wanted to find out, immediate top priority, what happened here,”</q>
+                Purdon said. <q ref="#">“Who was this shooter? Where did he get the meth? Who was he
+                    involved with? And what can we do about it?”</q></p>
+
+            <p>Purdon and the <org>FBI</org> teamed up with White and other tribal officers,
+                focusing on a large-scale drug-trafficking ring led by two brothers from Wasco,
+                Calif. — <person>Oscar and Happy Lopez.</person> In the summer of 2013, in an
+                investigation dubbed Operation Winter’s End, Purdon indicted 22 people, including
+                the Lopez brothers as well as members of the tribes, for dealing heroin and meth on
+                or around Fort Berthold. The drugs came from Mexico through Southern California,
+                officials said.</p>
+
+            <p>One suspect, <person>Michael Smith</person>, was wanted on a warrant for drug
+                trafficking in Colorado. He holed himself up in a reservation house with a gun for
+                more than 12 hours before the police knocked down the walls with a front-end
+                loader.</p>
+
+            <p><q ref="#">“The ‘wow effect’ was pretty strong,”</q> said <person>Assistant U.S.
+                    Attorney Rick Volk</person>, who oversaw the case. “<q ref="#">That’s not
+                    something that happens every day in a small town like <city>New
+                    Town</city>.”</q></p>
+
+            <p>Since then, <person>Purdon</person> has indicted more than 40 other people who have
+                all pleaded guilty to felony drug charges in the ongoing Winter’s End case, with a
+                large amount of the meth and heroin also coming from gangs in Chicago or dealers in
+                Minneapolis.</p>
+
+            <!--This is the pic about Jurisdiciton within Indain Country -->
+            <img url=""/>
+
+            <p>Investigating crime on <res>Fort Berthold</res> is more difficult than most places
+                because the reservation sits in six different counties each with its own sheriff —
+                some of whom do not have a good relationship with the tribe, according to tribal
+                members. If the victim and suspect are both Native American, the tribal police or
+                the FBI handles the arrest. But if the suspect is not Native American, in most cases
+                the tribal police can detain the suspect but then have to call the sheriff in the
+                county where the crime occurred. Sometimes they have to wait several hours before a
+                deputy arrives to make the arrest. In a murder case, the state or the FBI might be
+                involved, depending on the race of the victim and the suspect.</p>
+
+            <p><q ref="#">“There are volumes of treatises on Indian law that are written about this
+                    stuff,”</q>
+                <person>Purdon</person> said. <q ref="#">“It’s very complicated. And we’re asking
+                    guys with guns and badges in uniforms at 3:30 in the morning with people yelling
+                    at each other to make these decisions — to understand the law and be able to
+                    apply it.”</q></p>
+
+            <p>In the quadruple murder, for example, all four victims were white. But police didn't
+                immediately know if the perpetrator was white or Native American, so there was
+                initial confusion among law enforcement officials about who was in charge of the
+                investigation.</p>
+
+            <p><q ref="#">“Can you imagine the idea that we didn’t know the race of the shooter, so
+                    we didn’t know at first who had jurisdiction over the homicide?”</q> Purdon
+                asked. <q ref="#">“That’s not something your typical county sheriff has to deal
+                    with.”</q></p>
+
+            <p>The killer was later identified as a 21-year-old Native American.</p>
+
+
+            <img>
+                <caption><person>Native American Rachelle Baker</person>, 29, a former user of meth
+                    and heroin, has the names of her two young children tattooed on her arms to
+                    cover up needle scars and to serve as a reminder to stay sober. Baker, who faces
+                    up to 56 months in jail on drug charges, hopes to regain custody of her
+                    children.</caption>
+            </img>
+        </section>
+
+        <section>
+            <p>‘I helped bring that heroin here’</p>
+            <p>In the front seat of her cruiser, <person>White</person>, an Army veteran who grew up
+                in <res>Fort Berthold</res>, carries an eagle feather and a photograph of the
+                rodeo-champion grandfather who raised her.</p>
+
+            <p><person>Volk</person> calls her <q ref="#">“the eyes and ears of the
+                    reservation,”</q> a cop who is able to find anyone. Her fervor to save her
+                people from the ravages of heroin and meth gives White the fortitude to arrest even
+                tribal members she knows well.</p>
+
+
+            <img>
+                <caption><person>Sgt. Dawn White</person> removes an open bottle of whiskey from a
+                    vehicle while searching for drugs during a traffic stop in New Town. The driver,
+                    not a Native American, was detained on charges of driving under the influence
+                    and a suspended driver’s license while White waited for a deputy sheriff to make
+                    the arrest.</caption>
+            </img>
+
+            <p><q ref="#">“I put the uniform on,”</q>
+                <person>White</person> said, <q ref="#">“I have no family. I have no
+                friends.”</q></p>
+
+            <p>Before she sets out on patrol, she lights the end of braided sweet grass, a tradition
+                of the Plains Indians to drive away bad spirits. <person>White</person>, a mother of
+                three, places it on her dashboard for protection.</p>
+
+            <p><person>White</person> also carries a set of pink handcuffs, a personal signature
+                that she says represents <q ref="#">“girl power.”</q> One night last year, White
+                slapped the cuffs on one of her relatives, <person>Rachelle Baker</person>, a
+                29-year-old former <res>Fort Berthold</res> teacher who became addicted to heroin
+                shortly after it arrived on the Bakken.</p>
+
+            <p><q ref="#">“I was in the back of her cruiser, cussing her out, telling her to get
+                    away from me, ‘you don’t know what you’re doing,’ ” </q><person>Baker</person>
+                said in a recent interview. <q ref="#">“I was bawling my eyes out. I was sweating,
+                    my hair was sticking to my face. She took my hair and pushed it back and she
+                    said, ‘Rachelle, I don’t want to see you like this anymore. I don’t want to see
+                    you live like this. You need to get better for your kids, Rachelle.’ And she
+                    closed the door.”</q></p>
+
+            <p>Three years ago, Baker’s boyfriend at the time got heroin from an oil rig worker who
+                had brought it with him from Boston. <q ref="#">“That was the first time in my life
+                    I ever saw it,” </q><person>Baker</person> said.</p>
+
+            <p>Soon, she was hooked on heroin, buying from a dealer who came from Minneapolis and
+                shooting up, along with her friends, on a reservation where she said “there’s no
+                other recreation.”</p>
+
+            <p><q ref="#">“There’s not a movie theater here,”</q>
+                <person>Baker</person> said. <q ref="#">“There’s not a swimming pool. There’s
+                    nothing. There’s nothing to do here.”</q></p>
+
+            <p>She became pregnant and was using when she had her baby boy.</p>
+
+            <p><q ref="#">“I just couldn’t stop,”</q>
+                <person>Baker </person>said. She shot up so many times that she couldn’t find an
+                easy vein and inserted needles into her neck, legs, ankles and toes. One time, she
+                shot up in her forehead.</p>
+
+            <img>
+                <caption>Photo gallery In North Dakota, tribes have been enriched by drilling on
+                    their lands, but the newfound wealth has also brought a surge in crime that the
+                    reservation’s poorly funded police force has found difficult to combat. Click on
+                    the image for more scenes from North Dakota.</caption>
+            </img>
+
+            <p>By last fall, <person>Baker</person> was also using meth. In January of this year,
+                social workers took away both of her children, now ages 3 and 1.</p>
+
+            <p><q ref="#">“That was the lowest point in my life,”</q>
+                <person>Baker</person> said. She said she tried to kill herself by swallowing 200
+                Tylenol pills. Baker was transferred from the hospital to a mental-health facility
+                and then jail, where lying in the bunk she said she felt a sense of peace for the
+                first time in years.</p>
+
+            <p><q ref="#">“Because it felt like the nightmare I had been living was finally
+                    over,”</q> she said.</p>
+
+            <p>When she was released, <person>Baker</person> enrolled in a treatment program; she’s
+                now been drug-free for nearly eight months. She’s in counseling and finished
+                parenting classes. She is tested for drugs every week and is one step away from
+                regaining custody of her children. She’s helping to start two Narcotics Anonymous
+                groups at <res>Fort Berthold</res>, where there was none.</p>
+
+            <p>But in a few months, <person>Baker</person> goes to federal court, where she said she
+                faces 56 months in prison. She pleaded guilty to distribution of heroin after being
+                caught in <person>Purdon’s</person> drug sweep.</p>
+
+            <p><q ref="#">“It is so sad because I am finally getting my life back together,”</q>
+                Baker said. <q ref="#">“But I helped bring that heroin here. I sold it to people
+                    here on the reservation. I gave it to family members. And if I have to pay that
+                    price, then I will.”</q></p>
+
+        </section>
+        <img>
+            <caption> Miles of pipeline for natural gas wait to be welded along a rural stretch
+                where cows were shooed off the road by a Three Affiliated Tribes officer near
+                    <city>Mandaree, N.D.</city></caption>
+        </img>
+
+        <section>
+            <p>An unsafe community</p>
+            <p>Responding to another call, <person>White</person> pulls up to the reservation’s 4
+                Bears Casino and Lodge to check on a small child who was left inside a car while her
+                mother went inside to gamble.</p>
+
+            <p>Lined up outside the casino’s hotel are four other police cars. They are not the
+                cruisers of officers who have come to investigate the child. They belong to several
+                new recruits who have no place to live. The housing shortage has forced officers to
+                move with their families into casino hotel rooms until homes are built for them.</p>
+
+            <p><person>Three Affiliated Tribes Police Chief Chad Johnson</person> said he needs at
+                least 50 more officers.</p>
+
+
+            <p>View of a 149-passenger yacht purchased last year by the Three Affiliated Tribes.</p>
+
+            <p><q ref="#">“I get a lot of applicants from all over,”</q>
+                <person>Johnson</person> said. <q ref="#">“The first thing they ask is if we have
+                    housing available. We’ve been putting them up in the casino, but some of them
+                    have families and they don’t want their families living in a casino.”</q></p>
+
+            <p><person>Johnson</person>, the judge, has the same problem recruiting prosecutors. <q
+                    ref="#">“We can’t get them to come to the MHA Nation because of the lack of
+                    housing and the community is becoming so unsafe,”</q> she said. <q ref="#">“It
+                    is extremely dangerous to live here now.”</q></p>
+
+            <p>While <res>Fort Berthold</res> needs more police officers, housing for recruits, more
+                tribal prosecutors and judges, and additional drug treatment facilities, some
+                residents say their leaders have made questionable purchases, including a yacht.
+                Just behind the casino on the lake sits a gleaming white 96-foot yacht that the
+                tribe purchased last year to be used for a riverboat gambling operation.</p>
+
+            <p>While some federal officials have questioned the tribe's financial priorities, tribe
+                members have called for an investigation into their leader's business dealings.</p>
+
+            <p>Earlier this year, the seven-member tribal business council led by Hall voted to hire
+                a former U.S. attorney to examine Hall’s private oil and gas business dealings on
+                    <res>Fort Berthold</res> -- including his relationship with <person>James
+                    Henrikson</person>, a man who was arrested on felony weapons charges and was
+                indicted two weeks ago on 11 counts, including murder-for-hire of an associate.</p>
+
+            <p><person>Hall</person>, who served as chairman for 12 years, lost his reelection bid
+                the same week. In a statement, he has denied "affiliation with any gangs" and said
+                he is cooperating with federal investigators in the Henrikson case.</p>
+
+            <p>Another member of the tribal council, <person>Barry Benson</person>, was arrested
+                this year on drug charges.</p>
+
+            <p>Federal officials have sent more agents and resources to the Bakken, tripling the
+                number of prosecutions in what Purdon calls a <q ref="#">“robust response”</q> to
+                the crime wave.</p>
+
+            <p>But, he added, <q ref="#">“it’s not for me to talk about what the appropriate
+                    response is by the state of North Dakota, or these counties and the
+                tribe.”</q></p>
+
+            <p><person>Sen. Heidi Heitkamp (D-N.D.)</person> created a task force this month of
+                North Dakotans to focus on the increase in drug-related crime and human trafficking
+                in the Bakken, including Fort Berthold.</p>
+
+            <p>The state <q ref="#">“could absolutely do more,”</q>
+                <person>Heitkamp</person> said in an interview, pointing to the need for more
+                mental-health services, drug treatment facilities and drug courts.</p>
+
+            <p><q ref="#">“We are blessed with a growing economy and the country’s lowest
+                    unemployment rate, but there was a 20 percent increase in drug crimes in North
+                    Dakota last year,”</q> Heitkamp said. <q ref="#">“A better-coordinated response
+                    from the state would be helpful. The lack of roads, housing and law enforcement
+                    has stretched this small rural reservation to the max.”</q></p>
+        </section>
+
+
+        <img>
+            <caption>Tractor-trailers employed in oil production are a constant sight on the roads
+                throughout the reservation.</caption>
+        </img>
+
+        <section>
+            <p>‘The last of the last’</p>
+            <p>Earlier this year at a tribal conference in <city>Bismark, N.D.</city>, which<person>
+                    Purdon </person>and <person>Attorney General Eric H. Holder Jr.</person>
+                attended, White was presented with an award for her work trying to eradicate drug
+                trafficking at <res>Fort Berthold</res>.</p>
+
+            <p>She choked back tears as she walked to the podium, where she dedicated her award to
+                her Native American grandparents who raised her. She spoke about the time she has
+                spent away from her three children because of her job.</p>
+
+            <p><q ref="#">“I sacrifice because this is the only place I’m going to be a cop, the
+                        <res>Fort Berthold Indian Reservation</res>,”</q>
+                <person>White</person> said, her voice cracking.</p>
+
+            <p><q ref="#">“This is the last of what my people have,”</q>
+                <person>White</person> said. <q ref="">“Our people have survived so many things in
+                    history. The methamphetamine use, the heroin use, is just another epidemic like
+                    smallpox and boarding schools. And the last of the last are going to have to
+                    survive. And I want to be in the front lines because that was my vow — to
+                    protect my people.”</q></p>
+        </section>
+    </body>
+</entry>

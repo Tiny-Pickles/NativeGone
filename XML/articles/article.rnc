@@ -12,7 +12,7 @@ url = attribute url {xsd:anyURI}
 
 
 
-body = element body {(p| section)*,img*}
+body = element body {(p| section)* |img*}
 img = element img {n, caption, url, qual?}
 n = attribute n {xsd:integer}
 qual = attribute qual {"good" | "bad"}
@@ -29,4 +29,4 @@ city = element city {(lat, long)?, text}
 state = element state {(lat, long)?,text}
 res = element res {(lat, long)?,text}
 camp = element camp {(lat, long)?,text}
-section = element section {p+}
+section = element section {p+ |img*}

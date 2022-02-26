@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="newsArticle.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="article.rnc" type="application/relax-ng-compact-syntax"?>
 <entry dateID="2019">
         <meta>
             <title>FEAR NEXT DOOR The man camp connection</title>
