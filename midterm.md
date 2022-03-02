@@ -8,3 +8,6 @@ I still need to add more info to the Man Camp csv file to update my ArcGIS layer
 
 Once all of the data within the csv files is finalized I will just need to make the layers aesthetically pleasing and functional based on the specific data of that layer within ArcGIS.
 
+
+Over break I am planning on finishing the map and then starting and working toward completing half of the court case and legislation documents in xml for the timeline portion of my project. I will work on Kumu to create networks that show data gaps within my project. 
+
