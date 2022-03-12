@@ -1,4 +1,10 @@
 *{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+*{
     margin: auto;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -75,6 +81,9 @@ h2 {
     font-size: 32px;
     margin: 10px;
 }
+
+
+
 
 
 

@@ -1,9 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
-        <title>NativeGone Map</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>Slider</title>
+        <link rel="shorcut icon" type="image/png" href="./favicon.png">
+        <link id="esri-stylesheet" rel="stylesheet" href="./assets/esri/themes/light/main.css">
+        <script defer="defer" src="index.js"></script>
+        <link href="index.8f634fc812304c898cef.css" rel="stylesheet">
     </head>
-    <body>
-        
+    <body class="slider-instant-app--loading">
+        <div class="parent-container">
+            <div id="view-parent-container">
+                <div id="main-container">
+                    <div id="main-content"></div>
+                    <div id="viewContainer" class="slider-instant-app__view-container"></div>
+                </div>
+            </div>
+        </div>
+        <div id="ariaLiveRegion" class="sr-only" aria-live="polite"></div>
     </body>
 </html>
