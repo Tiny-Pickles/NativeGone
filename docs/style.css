@@ -1,0 +1,164 @@
+body
+{
+    background-color: #1a1a1d;
+    font-family: Sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.navbanner {
+    background-color: #1a1a1d;
+    color: black;
+    margin: 0;
+    height: 10vh;
+}
+.navbar {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 16px;
+    font-size:18px;
+    position: relative;
+    
+}
+.navbar a:hover {
+    background-color: #6f2232;
+}
+.logo{
+   color: #6f2232;
+   text-transform: uppercase;
+   font-size:30px;
+   font-weight: bold;
+}
+.imagebanner {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: block; 
+    text-align: center;
+    position: relative;
+}
+.bannerimage{
+    width: 100%;
+    height: 95vmin;
+    display: block;
+    position: relative;
+    text-align: center;
+}
+.webtitle{
+   text-align:center;
+   width:100%; 
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   color: white;
+   text-transform: uppercase;
+   transform: translate(-50%, -50%);
+   Text-shadow: 2px 2px black;
+   font-size:58px;
+   font-weight: bold;
+}
+.content {
+    padding: 40px;
+    height: 100%;
+    margin: 20px;
+}
+.proposal {
+    text-align: left;
+    width: 100%;
+    color: white;
+    font-size: 21px;
+}
+.proposalTitle{
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-size: 38px;
+    
+}
+.desc{
+    background-color: #6f2232;
+    padding: 20px; 
+    width: 95%;
+    align-content: center;
+    margin: auto;
+    display: flex;
+    flex: 90%;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.objec{
+    background-color: #6f2232;
+    padding: 20px; 
+    width: 95%;
+    align-content: center;
+    margin: auto;
+    display: flex;
+    flex: 90%;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-bottom: 75px;
+    margin-top: 75px;
+}
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.about {
+  padding: 10px;
+  text-align: center;
+  background-color: #6f2232;
+  color: white;
+}
+
+.mapContainer {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 50%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  background-color: white;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
